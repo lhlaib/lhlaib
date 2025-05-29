@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lin-Hung Lai (賴林鴻)</h1>
 <h3 align="center">A passionate IC designer, researcher, and open-source educator from Taiwan 🇹🇼</h3>
 
----
-
-🎓 **PhD Student** at National Yang Ming Chiao Tung University (NYCU)  
-🔬 **Visiting Scholar** at Stanford University, Wong Lab @ Stanford Bio-X  
-🧠 Specializing in: **Digital IC Design**, **EDA Automation Algorithms**, **Biomedical Electronics**, and **System Integration**
 
 ---
 
@@ -14,6 +9,8 @@
 Hi 👋, I'm Lin-Hung Lai (賴林鴻). I'm currently pursuing my PhD in IC design at NYCU and conducting research as a Visiting PhD Student at Stanford University. My work spans **CMOS chip design**, **algorithmic automation**, and **biosystem integration**. I have strong experience with `Verilog`, `Python`, and `C++`.
 
 I am passionate about **developing open-source environments** for IC design education and actively contribute to the **ADFP Cloud**, **ICLAB**, and **VLSI Lab** teaching platforms.
+
+🧠 Specializing in: **Digital IC Design**, **EDA Automation Algorithms**, **Biomedical Electronics**, and **System Integration**
 
 ---
 
