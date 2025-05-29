@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lin-Hung Lai (賴林鴻)</h1>
+<h1 align="center">Hi 👋, I'm Lin-Hung Lai 賴林鴻</h1>
 <h3 align="center">IC Designer • Researcher @ NYCU/Stanford • Open-Source Educator</h3>
 
 <p align="center">
