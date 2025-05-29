@@ -1,17 +1,29 @@
 <h1 align="center">Hi 👋, I'm Lin Hung Lai</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhlaib&label=Profile%20views&color=0e75b6&style=flat" alt="lhlaib" /> </p>
+|Github State|Top Language|
+|:-:|:-:|
+|[![Anurag's GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=lhlaib&show_icons=true&theme=light&card_width=320\&include_all_commits=true\&show=reviews,prs_merged\&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=lhlaib&theme=light&layout=compact&langs_count=12&card_width=320&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lhlaib" alt="lhlaib" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+我是王語，交通大學研究生，我的專長是數位電路設計，具備高熟練度的 Verilog 與 Python 。
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lhlaib&show_icons=true&locale=en" alt="lhlaib" /></p>
+目前開源了一些專案作為學習數位電路的借鏡，以下是我自豪的作品：
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lhlaib&" alt="lhlaib" /></p>
+* ASIC: 
+[Single core CPU with domain specific IP](https://github.com/kevin861222/NYCU-ICLAB-2024-Spring/tree/main/Mycode/Final_Project)
+
+* SOC:
+[FSIC Design](https://github.com/kevin861222/112_SOC_final_project)
+
+* Memory controller:
+[SDRAM controller](https://github.com/kevin861222/SOC-Lab-D-SDRAM)
+
+* ML Accelerator:
+[4x4 TPU](https://github.com/kevin861222/general-purpose-4x4-TPU), [Bit-serial-CIM-Convolution-IP](https://github.com/kevin861222/bit-serial-CIM-Convolution-IP)
+
+* FPGA: 
+[AAML final proj](https://github.com/kevin861222/AAML-final-project)
 
 <!--
 **lhlaib/lhlaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
