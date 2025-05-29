@@ -17,12 +17,12 @@ I am passionate about **developing open-source environments** for IC design educ
 
 ---
 
-### 🧰 Tech Stack
+### 📈 GitHub Stats
 
-- 🔧 Hardware: Verilog, SystemVerilog, HSPICE, Synopsys DC, ICC2, Star-RC
-- 👨‍💻 Software: Python, C++, Bash, Flask, Linux, Git
-- 🧠 Tools: GitHub, Jupyter, VSCode, OBS, LaTeX
-- 🌐 Platform: ADFP Cloud, GCP, Synology NAS
+| Github State | Top Language |
+|:-:|:-:|
+|[![GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=lhlaib&show_icons=true&theme=light&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=lhlaib&theme=light&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
+
 
 ---
 
@@ -36,30 +36,6 @@ I am passionate about **developing open-source environments** for IC design educ
 | 🔬 [DEP Biochip Control System](https://github.com/...) | Programmable GUI + server-client system for real-time cell manipulation on a CMOS DEP chip |
 | 🧪 [ADFP Cloud 2.0 教學平台](https://github.com/...) | Flask-based account management system for IC design cloud server (ADFP Cloud) |
 
----
-
-### 📈 GitHub Stats
-
-| Github State | Top Language |
-|:-:|:-:|
-|[![GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=lhlaib&show_icons=true&theme=light&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=lhlaib&theme=light&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
-
----
-
-### 🌱 Recent Activities & Focus
-
-- 📡 Developing high-resolution capacitive sensor image reconstruction methods using Super-Resolution
-- 🧬 Enhancing single-cell control and analysis using DEP, FPGA, and computer vision
-- 🌐 Promoting cloud-based IC education platforms with easy onboarding and automation
-- 📢 Sharing tutorials and presentations for IC design learners and research communities
-
----
-
-### 📫 Contact
-
-- 📨 Email: [h123572119@gmail.com](mailto:h123572119@gmail.com)
-- 🌐 Personal Website: [lhlaib.github.io](https://lhlaib.github.io/)
-- 🔗 LinkedIn: [linkedin.com/in/lhlaib](https://www.linkedin.com/in/lhlaib)
 
 ---
 
