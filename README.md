@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lin Hung Lai</h1>
+<h3 align="center">A passionate frontend developer from Taiwan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhlaib&label=Profile%20views&color=0e75b6&style=flat" alt="lhlaib" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lhlaib&show_icons=true&locale=en" alt="lhlaib" /></p>
+
 
 <!--
 **lhlaib/lhlaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
