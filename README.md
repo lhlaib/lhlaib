@@ -1,16 +1,31 @@
 <h1 align="center">Hi 👋, I'm Lin-Hung Lai (賴林鴻)</h1>
-<h3 align="center">A passionate IC designer, researcher, and open-source educator from Taiwan 🇹🇼</h3>
+<h3 align="center">IC Designer • Researcher @ NYCU/Stanford • Open-Source Educator</h3>
 
+<p align="center">
+  <em>Making IC Design ✨ Accessible, Reproducible, and Inspiring</em>
+</p>
 
 ---
 
-### 💻 About Me
+### 👨‍💻 About Me
 
-Hi 👋, I'm Lin-Hung Lai (賴林鴻). I'm currently pursuing my PhD in IC design at NYCU and conducting research as a Visiting PhD Student at Stanford University. My work spans **CMOS chip design**, **algorithmic automation**, and **biosystem integration**. I have strong experience with `Verilog`, `Python`, and `C++`.
+I'm a PhD at **NYCU** and Visiting PhD at **Stanford University**,  
+working at the intersection of **CMOS chip design**, **EDA automation**, and **biomedical systems**.
 
-I am passionate about **developing open-source environments** for IC design education and actively contribute to the **ADFP Cloud**, **ICLAB**, and **VLSI Lab** teaching platforms.
+- 💡 `Digital IC` | `Verilog` | `Python` | `C++` | `System Integration`
+- 🛠️ Creator of **ADFP Cloud** – a hands-on IC design education platform  
+- 🎓 Passionate about teaching and building platforms for future chip designers
 
-🧠 Specializing in: **Digital IC Design**, **EDA Automation Algorithms**, **Biomedical Electronics**, and **System Integration**
+---
+
+### 📘 My Mission
+
+I build open, scalable environments to help students:
+- 🌱 Learn full IC design flows (RTL → APR → GDSII)
+- 🔬 Explore chip-based bioelectronics (CMOS/DEP)
+- ⚙️ Manage servers like pros (Linux, LDAP, automation)
+
+> 🧠 I believe **IC education should be practical, open-source, and empowering.**
 
 ---
 
@@ -18,26 +33,17 @@ I am passionate about **developing open-source environments** for IC design educ
 
 | Github State | Top Language |
 |:-:|:-:|
-|[![GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=lhlaib&show_icons=true&theme=light&include_all_commits=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=lhlaib&theme=light&layout=compact&langs_count=10&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
-
-
----
-
-### 🏗️ Selected Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔩 [Asynchronous FIFO and Domain-Specific CPU (16nm FinFET)](https://github.com/...) | Full RTL to APR flow, including timing closure with post-layout simulation |
-| 📦 [Maze Router Accelerator (AXI-DRAM)](https://github.com/...) | Designed a router IP with AXI interface, supporting DRAM burst access and multi-bank buffering |
-| 🧠 [Floating-Point CNN Accelerator](https://github.com/...) | RTL implementation of convolution, pooling, normalization, and activation for CNNs |
-| 🔬 [DEP Biochip Control System](https://github.com/...) | Programmable GUI + server-client system for real-time cell manipulation on a CMOS DEP chip |
-| 🧪 [ADFP Cloud 2.0 教學平台](https://github.com/...) | Flask-based account management system for IC design cloud server (ADFP Cloud) |
-
+|[![GitHub stats](https://github-readme-stats-eight-beta-67.vercel.app/api?username=lhlaib&show_icons=true&theme=light&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats-eight-beta-67.vercel.app/api/top-langs/?username=lhlaib&theme=light&layout=compact&langs_count=8&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
 
 ---
 
-> “Strive not to be a success, but rather to be of value.” – Albert Einstein
+### ⭐ Like my work?
 
+喜歡可以給星星 ✨ 😉
+If you find my projects helpful, a ⭐ or Follow means a lot!
+
+📫 **Reach me:**  
+[Website](https://lhlaib.github.io) ｜ [LinkedIn](https://linkedin.com/in/lhlaib) ｜ [Email](mailto:h123572119@gmail.com)
 
 
 
